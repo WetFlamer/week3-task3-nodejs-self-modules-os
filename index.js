@@ -1,4 +1,4 @@
 import result from 'os'
-import {r} from './welcome.js'
+import result1 from './welcome.js'
 console.log(result.homedir(), result.hostname(), result.version(), result.type())
-console.log(r())
+console.log(result1())
